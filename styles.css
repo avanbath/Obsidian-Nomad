@@ -1,0 +1,48 @@
+/* styles.css for https://www.obisidan-nomad.ca */
+/* This CSS file is referenced in index.html */
+
+html {
+    margin: 0;
+    height: 100%;
+    background-image: url(/background.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: cronus;
+    src: url(/cronusItalic.otf);
+}
+
+h1 {
+    font-family: cronus;
+    font-size: 60px;
+    display: inline;
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: kiona;
+    src: url(/kionaRegular.ttf);
+}
+
+h2 {
+    font-family: kiona;
+    font-size: 45px;
+}
