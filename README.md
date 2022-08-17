@@ -1,7 +1,7 @@
 # Obsidian Nomad Website Repository
 
 This is my official website repository.
-This repository includes website information and file data for the [Obsidian Nomad](https://obsidian-nomad.netfliy.app) website.
+This repository includes website information and file data for the [Obsidian Nomad](https://obsidian-nomad.netlify.app) website.
 
 The website itself is currently hosted via Netlify (which deploys the website alongside GitHub) and its domain name may be provided by Google Domains.
 The DNS settings have been changed to work with Netlify (instead of Google Domains' interface) and its various features to provide the best experience for management.
